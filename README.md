@@ -19,7 +19,8 @@ function
 master).
 
  #Layout Of Course Content
- ------- | -----------------------------------------
+ Week    | Course Content
+ ------- | --------------
  Week 1  | Intro To JavaScript
  Week 2  | Git
  Week 3  | NodeJS as a Server
